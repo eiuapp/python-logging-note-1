@@ -1,5 +1,6 @@
-https://www.cnblogs.com/dahu-daqing/p/7040764.html
+python logging module note
 
+http://eiuapp.github.io/python-logging-note-1/
 
 可以设置不同的日志等级，用于控制日志的输出，
 
