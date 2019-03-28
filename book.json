@@ -1,11 +1,11 @@
 {
-    "title": "Ceph Handbook - Ceph 实践指南 by eiuapp",
-    "description": "Ceph Handbook - Ceph 实践指南 2019年 by eiuapp ",
+    "title": "python logging not - python logging by eiuapp",
+    "description": "python logging not - python logging by eiuapp",
     "language": "zh-hans",
     "author": "eiuapp",
     "links": {
         "sidebar": {
-            "Ceph Handbook": "https://eiuapp.github.io/ceph-handbook"
+            "Ceph Handbook": "https://eiuapp.github.io/python-logging-note-1"
         }
     },
     "plugins": [
@@ -33,14 +33,14 @@
             "showLevel": true
         },
         "github": {
-            "url": "https://github.com/eiuapp/ceph-handbook"
+            "url": "https://github.com/eiuapp/python-logging-note-1"
         },
         "editlink": {
-            "base": "https://github.com/eiuapp/ceph-handbook/blob/master/",
+            "base": "https://github.com/eiuapp/python-logging-note-1/blob/master/",
             "label": "编辑本页"
         },
         "github-buttons": {
-            "repo": "eiuapp/ceph-handbook",
+            "repo": "eiuapp/python-logging-note-1",
             "types": ["star"],
             "size": "small"
         },
@@ -65,7 +65,7 @@
             ]
         },
         "sitemap-general": {
-            "prefix": "https://eiuapp.github.io/ceph-handbook/"
+            "prefix": "https://eiuapp.github.io/python-logging-note-1/"
         },
         "adsense": {
             "client": "ca-pub-4029167986768912",
